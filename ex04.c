@@ -14,7 +14,7 @@ int main() {
         idade--; // Subtrair 1 se o aniversário ainda não ocorreu este ano
     }
     
-    printf("Sua idade = %d anos.\n", idade);
+    printf("Sua idade é %d anos.\n", idade);
     
     return 0;
 }
